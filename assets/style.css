@@ -10,6 +10,8 @@ body {
 
 #navbar {
     margin-left: 25px;
+    font-weight: 700;
+    font-size: 20pt;
 }
 
 #navItems{
