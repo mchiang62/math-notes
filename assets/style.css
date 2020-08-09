@@ -7,3 +7,11 @@ body {
 #title {
     font-weight: 700;
 }
+
+#navbar {
+    margin-left: 25px;
+}
+
+#navItems{
+    margin-right: 25px;
+}
