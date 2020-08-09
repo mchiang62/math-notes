@@ -1,4 +1,9 @@
 body {
     font-family: 'EB Garamond', serif;
+    font-size: 14pt;
    
+}
+
+#title {
+    font-weight: 700;
 }
